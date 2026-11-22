@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="go4_primary">#101820</color>
+    <color name="go4_secondary">#00C896</color>
+    <color name="go4_background">#F5F7FA</color>
+    <color name="go4_surface">#FFFFFF</color>
+    <color name="go4_text">#17212B</color>
+    <color name="go4_dark_background">#101820</color>
+
+    <style name="Theme.Go4"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/go4_primary</item>
+        <item name="colorPrimaryVariant">@color/go4_primary</item>
+        <item name="colorSecondary">@color/go4_secondary</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">@color/go4_primary</item>
+        <item name="android:navigationBarColor">@color/go4_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+
+    </style>
+
+</resources>
