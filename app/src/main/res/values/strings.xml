@@ -3,7 +3,7 @@
 
     <string name="app_name">Go4</string>
     <string name="browser_name">Go4 Browser</string>
-    <string name="address_hint">Web'de ara veya adres gir...</string>
+    <string name="address_hint">Arama yap veya adres gir...</string>
     <string name="home">Ana Sayfa</string>
     <string name="settings">Ayarlar</string>
     <string name="bookmarks">Yer İşaretleri</string>
